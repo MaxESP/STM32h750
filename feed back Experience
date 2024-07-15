@@ -8,4 +8,12 @@ Return of experience.
 
 2 I have made a mistake with the choice of crystal by buying a tristate complete resonator clock on aliexpress  in place of a basic crystal .
 
-If you make this choice make sure to design the tristate clock like this
+
+If you make this choice make sure to design  the tristate clock like this:
+
+1 tristate pin  must have the option to be grounded , link to vcc or keep floating ( 3 options ).
+The lack of datasheet make me wast time Solution for me witch work was keep floating.
+
+
+
+
