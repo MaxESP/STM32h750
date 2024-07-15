@@ -14,6 +14,7 @@ If you make this choice make sure to design  the tristate clock like this:
 1 tristate pin  must have the option to be grounded , link to vcc or keep floating ( 3 options ).
 The lack of datasheet make me wast time Solution for me witch work was keep floating.
 
-
+3 The connection with the mcu is output of clock direct to osc in of the mcu.
+The osc out of mcu not connected.
 
 
